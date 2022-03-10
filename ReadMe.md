@@ -1,3 +1,24 @@
+## MagicBoard
+
+-   figma, framer 처럼 작업 후 html, css, js로 export 할 수 있는 웹
+
+### Tasks
+
+-   [ ] 그림판
+-   [ ] 이미지 편집
+-   [ ] image, video, font등 업로드
+-   [ ] html dom 만들기
+-   [ ] 반응형 미리보기
+-   [ ] 임시 저장
+
+#### More
+
+-   [ ] 로그인
+-   [ ] 내 저장소
+-   [ ] 즐겨찾기
+-   [ ] google docs처럼 함께 작업, comment 달기
+-   [ ] 만든 내용 공유하는 게시판
+
 ## 📚 폴더 구조
 
 ```
