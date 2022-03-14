@@ -1,6 +1,30 @@
 ## MagicBoard
 
 -   figma, framer 처럼 작업 후 html, css, js로 export 할 수 있는 웹
+```
+1. layout
+  html 태그 네모박스로 그리기
+  현재 트리 구조 보기
+
+2. editor  
+  1) assets 입력
+  2) assets 간단한 편집
+  3) layout 꾸미기
+
+3. animation
+  1) css animation
+  2) js
+
+4. preview
+  1) 핸드폰, 테블릿, 웹 모니터 등 preview
+
+5. homepageDocs 작성
+  1) meta 태그
+  2) favicon
+  3) 홈페이지 제목
+
+6. export
+```
 
 ### Tasks
 
